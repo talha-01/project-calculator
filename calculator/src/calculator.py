@@ -3,7 +3,7 @@ def add(a, b):
     return a + b
 
 def subtract (a, b):
-    chekcInputs(a, b)
+    checkInputs(a, b)
     return a - b
 
 def multiply (a, b):
